@@ -1,1 +1,1 @@
-var title = document.querySelector(".text").innerHTML = "Change it up!";
+h1.classList.add("je_vader");
